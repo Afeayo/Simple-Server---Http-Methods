@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Mr Tobi",
+    "country": "Nigeria",
+    "id": "authorId1"
+  },
+  {
+    "name": "Js Backend",
+    "country": "UK",
+    "id": "bookId2",
+    "author": "The Chef",
+    "authorId": "authorId2"
+  },
+  {
+    "name": "The Back end Dev",
+    "country": "Nigeria",
+    "id": "1710805971027_400",
+    "author": "Sunday"
+  },
+  {
+    "name": "Afe Ayo Sunday",
+    "country": "Nigeria",
+    "id": "1710806201678_771"
+  },
+  {
+    "name": "Mr Tobi",
+    "country": "Nigeria",
+    "id": "lty3iv0hrymkr"
+  },
+  {
+    "name": "Altschool Pro. Tobi",
+    "country": "Nigeria",
+    "id": "lty3kana6yyjz"
+  },
+  {
+    "name": "intro Node JS",
+    "author": "Afe Ayo",
+    "country": "Cannada",
+    "id": "lty4cnhhln22a",
+    "authorId": "authorId2"
+  },
+  {
+    "name": "intro Node to JS",
+    "author": "Afe Ayo Sunday",
+    "country": "Cannada",
+    "id": "lty4cs6trlhgh",
+    "authorId": "authorId2"
+  },
+  {
+    "title": "Backend we know",
+    "author": "Mr Tobi, The chef",
+    "year": 2024,
+    "id": "ltzvdnh0gvdf3"
+  }
+]

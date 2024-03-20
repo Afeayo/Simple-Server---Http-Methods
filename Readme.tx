@@ -1,0 +1,13 @@
+Second semester Assigment two answer
+HTTP Server for Managing Books and Authors
+This Node.js application implements an HTTP server for managing books and authors. It provides endpoints to perform CRUD operations on books and authors, utilizing JSON files as databases.
+
+Features
+Get Books: Retrieve a list of all books.
+Get Authors: Retrieve a list of all authors.
+Get Book by ID: Retrieve a specific book by its ID.
+Get Author by ID: Retrieve a specific author by their ID.
+Update Author: Update an existing author's information.
+Delete Book: Remove a book from the database.
+Add Author: Add a new author to the database.
+PUT /books/:id: Update an books information by ID.
